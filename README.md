@@ -10,12 +10,12 @@ This project aims to analyze income data in Canada using linear regression. The 
 * Jupyter Notebook (optional but recommended)
 
 #### _Usage:_
-> Import the dataset
+> _Import the dataset_
 
 * On Colab/Jupyter, import the 'canada_per_capita_income.csv' dataset
 
   
-> Import the .ipynb file
+> _Import the .ipynb file_
 
 * Import the 'Canada_Income_Analysis.ipynb' file and run it
 
